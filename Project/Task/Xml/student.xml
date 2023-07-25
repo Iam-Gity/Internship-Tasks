@@ -1,0 +1,20 @@
+<class>
+    <student>
+        <name>Gokul</name>
+        <id>01</id>
+        <branch>IT</branch>
+        <cgpa>9</cgpa>
+    </student>
+    <student>
+        <name>Mano</name>
+        <id>02</id>
+        <branch>Computer</branch>
+        <cgpa>7</cgpa>
+    </student>
+    <student>
+        <name>Ravi</name>
+        <id>03</id>
+        <branch>IT</branch>
+        <cgpa>10</cgpa>
+    </student>
+</class>
